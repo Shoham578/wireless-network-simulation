@@ -24,3 +24,7 @@ The dataset can be used for RF-based object classification and counting tasks.
 - `code/` - Python simulation code
 - `data_samples/` - Representative examples from the generated dataset
 - `README.md` - Project description
+
+## Full Dataset
+
+The full generated dataset is available in the Releases section of this repository under the release titled "Full Dataset".
